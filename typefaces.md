@@ -1,5 +1,5 @@
 # Guide on Choosing a Font
-![Font Guide](https://github.com/[gyuden]/[mms142-groupd-2021]/blob/[main]/Font-Styles-Guide.jpg?raw=true)
+![Font Guide](https://github.com/gyuden/mms142-groupd-2021/blob/main/Font-Styles-Guide.jpg?raw=true)
 
 ### Drop your suggestions for the fonts/typefaces here :)
 
