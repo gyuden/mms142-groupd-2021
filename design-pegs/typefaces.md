@@ -24,3 +24,10 @@ https://fonts.google.com/specimen/Oswald
 ### Roboto
 ![roboto](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Roboto_Font_Sample.svg/1200px-Roboto_Font_Sample.svg.png)\
 https://fonts.google.com/specimen/Roboto
+
+### Archivo (for headers, etc.)
+![archivo](https://assets.awwwards.com/awards/gallery/2021/08/archivo.jpg)\
+https://fonts.google.com/specimen/Archivo?query=archivo&preview.text=Digital%20Fashion&preview.text_type=custom
+
+### Merriweather (for the main body text, etc.)
+![merriweather](https://cdn.dribbble.com/users/2374674/screenshots/15376414/merriweather_4x.png)
