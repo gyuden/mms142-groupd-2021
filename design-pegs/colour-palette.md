@@ -8,3 +8,6 @@ https://html-color-codes.info/colors-from-image/ - use this^^
 
 ### Palette #3
 ![Palette 3](https://digitalsynopsis.com/wp-content/uploads/2019/09/color-schemes-palettes-combinations-18.jpg)
+
+### Palette #4
+![Palette 4](https://digitalsynopsis.com/wp-content/uploads/2019/09/color-schemes-palettes-combinations-4.jpg)
