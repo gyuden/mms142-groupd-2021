@@ -11,3 +11,9 @@ https://html-color-codes.info/colors-from-image/ - use this^^
 
 ### Palette #4
 ![Palette 4](https://digitalsynopsis.com/wp-content/uploads/2019/09/color-schemes-palettes-combinations-4.jpg)
+
+### Palette #5
+![Pakette 5](https://i.pinimg.com/564x/67/1e/93/671e937c6ee608ce34005b4de24034ae.jpg)
+
+### Palette #6
+![Palette 6](https://i.pinimg.com/564x/f0/7b/e5/f07be5f07f2b3bc09debfaaa5b733ce9.jpg)
