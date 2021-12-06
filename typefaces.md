@@ -9,5 +9,9 @@
 ![suez one](https://user-images.githubusercontent.com/69533811/144826709-3ac46c66-6644-496b-804b-04b98bc79c15.PNG)\
 https://fonts.google.com/specimen/Suez+One?preview.text=Digital%20Fashion&preview.text_type=custom#standard-styles
 
+### Bebas Neue
+![bebas neue](https://d144mzi0q5mijx.cloudfront.net/img/B/E/Bebas-Neue-Regular.png)\
+https://fonts.google.com/specimen/Bebas+Neue?preview.text=Digital%20Fashion&preview.text_type=custom
+
 
 
