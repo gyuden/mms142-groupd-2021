@@ -16,3 +16,7 @@ https://fonts.google.com/specimen/Inter?preview.text=Digital%20Fashion%20is%20th
 ### Bebas Neue
 ![bebas neue](https://d144mzi0q5mijx.cloudfront.net/img/B/E/Bebas-Neue-Regular.png)\
 https://fonts.google.com/specimen/Bebas+Neue
+
+### Oswald
+![oswald](https://i.pinimg.com/originals/3c/99/a3/3c99a39f42fab23a19d3e0538c8f7ae9.jpg)\
+https://fonts.google.com/specimen/Oswald
