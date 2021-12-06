@@ -1,7 +1,7 @@
 # Guide on Choosing a Font
-![Font Guide](https://github.com/gyuden/mms142-groupd-2021/blob/main/Font-Styles-Guide.jpg?raw=true)\
-![Font Pairing](https://github.com/gyuden/mms142-groupd-2021/blob/main/FontPairing-CheatSheet.jpg?raw=true)\
-![Font Anatomy and Layout](https://github.com/gyuden/mms142-groupd-2021/blob/main/TheAnatomyofTypography-Poster-01.jpg?raw=true)
+![Font Guide](https://github.com/gyuden/mms142-groupd-2021/blob/main/images/Font-Styles-Guide.jpg?raw=true)\
+![Font Pairing](https://github.com/gyuden/mms142-groupd-2021/blob/main/images/FontPairing-CheatSheet.jpg?raw=true)\
+![Font Anatomy and Layout](https://github.com/gyuden/mms142-groupd-2021/blob/main/images/TheAnatomyofTypography-Poster-01.jpg?raw=true)
 
 ### Drop your suggestions for the fonts/typefaces here :)
 
