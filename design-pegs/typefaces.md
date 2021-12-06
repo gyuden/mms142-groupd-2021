@@ -12,3 +12,7 @@ https://fonts.google.com/specimen/Suez+One?preview.text=Digital%20Fashion&previe
 ### Inter
 ![inter](https://user-images.githubusercontent.com/69533811/144833322-9a53427e-9edc-4946-801f-4f5619019d9b.PNG)\
 https://fonts.google.com/specimen/Inter?preview.text=Digital%20Fashion%20is%20the%20visual%20representation%20of%20clothing%20built%20using%20computer%20technologies%20and%203D%20software.&preview.text_type=custom&category=Sans+Serif\
+
+### Bebas Neue
+![bebas neue](https://d144mzi0q5mijx.cloudfront.net/img/B/E/Bebas-Neue-Regular.png)\
+https://fonts.google.com/specimen/Bebas+Neue
