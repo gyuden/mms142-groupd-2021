@@ -30,4 +30,5 @@ https://fonts.google.com/specimen/Roboto
 https://fonts.google.com/specimen/Archivo?query=archivo&preview.text=Digital%20Fashion&preview.text_type=custom
 
 ### Merriweather (for the main body text, etc.)
-![merriweather](https://cdn.dribbble.com/users/2374674/screenshots/15376414/merriweather_4x.png)
+![merriweather](https://cdn.dribbble.com/users/2374674/screenshots/15376414/merriweather_4x.png)\
+https://fonts.google.com/specimen/Merriweather?preview.text=Digital%20Fashion&preview.text_type=custom&query=merriwea
