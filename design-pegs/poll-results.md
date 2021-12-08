@@ -19,7 +19,9 @@ HTML Color Codes from (https://html-color-codes.info/colors-from-image/)
 https://fonts.google.com/specimen/Archivo?query=archivo&preview.text=Digital%20Fashion&preview.text_type=custom
 
 ## Typefaces (Body)
-
+### Inter
+![inter](https://user-images.githubusercontent.com/69533811/144833322-9a53427e-9edc-4946-801f-4f5619019d9b.PNG)\
+https://fonts.google.com/specimen/Inter
 
 ## Website Layout
 ### Website Layout 1

@@ -32,3 +32,7 @@ https://fonts.google.com/specimen/Archivo?query=archivo&preview.text=Digital%20F
 ### Merriweather (for the main body text, etc.)
 ![merriweather](https://cdn.dribbble.com/users/2374674/screenshots/15376414/merriweather_4x.png)\
 https://fonts.google.com/specimen/Merriweather?preview.text=Digital%20Fashion&preview.text_type=custom&query=merriwea
+
+## Questrial (for the header, or main body text)
+![questrial](https://github.com/gyuden/mms142-groupd-2021/blob/199ed8486b6c66b1e7509fc27889dd92783458e5/images/questrial.jpg)
+https://fonts.google.com/specimen/Questrial
