@@ -1,6 +1,3 @@
-# What is a Disruptive technology?
-A disruptive technology has the potential to undermine an existing market, system, or product. Investing in this technology may provide risk of selling immediately or sometimes not at all to the public (Smith, 2020). However, missing the speed of innovation often leads companies to be left behind.
-
 # What is Digital Fashion?
 Clothing is one of the human's basic needs to live. However, as time evolved, clothing went beyond the realm of necessity into luxury, fashion, and entertainment. It became a natural extension of identity, helping us express who we are, display our interests, and oftentimes our social status. 
 
@@ -9,9 +6,13 @@ The fashion industry comprises fashion enthusiasts, influencers, and consumers. 
 Digital Fashion is not only a sustainable alternative method to clothing, but it is also an innovative technology that brings new meaning to fashion, luxury, and entertainment. 
 
 # Why is it considered a disruptive technology?
-Digital Fashion can be disruptive to the fast fashion industry, it provides a platform for people to enjoy the experience of expressing oneself with fashion without having to consume or produce textile. The gaming industry has already proven that this is a successful market. Gaming companies such as Sims, League of Legends, Grand Theft Auto and more capitalize custom outfits for characters. Other than buying the game itself, skins (along with weapon upgrades) have been one of the main money producing tactics for these companies.
 
-Not only is Digital Fashion a sustainable method, but it also aligns with the restrictions during this pandemic. Digital fashion now introduces a new world for virtual-catwalks, photoshots, and exhibits. People also are rarely able to show off their outfits outside, so digital fashion offers safely parading your OOTD at home. Lastly, as this technology does not produce textile, when publicized it could be an affordable way to replace fast fashion. Fast fashion according to Hayes (2021), is the bottom of the fashion hierarchy; it is cheap, trendy, and changes out quickly. They are the biggest contributors to pollution to our waters as speed manufacturing requires toxic cheap dye and mass produced textiles also mostly end up in landfills (The Problem with Fast Fashion, 2019).
+First, what is a disruptive technology? Technology is considered as disruptive when it has the potential to undermine an existing market, system, or product. According to Smith (2020), investing in this type of technology may provide risk of selling immediately or sometimes not at all to the public. However, missing the speed of innovation often leads companies to be left behind.
+
+So how is Digital Fashion disruptive? For one, it can be disruptive to the fashion industy because it provides a platform for consumers to enjoy the experience of expressing oneself through fashion without actually having to consume or produce textile. The gaming industry as well has already proven that this is a successful market. Gaming companies such as Sims, League of Legends, Grand Theft Auto and more capitalize on creating custom outfits for their characters. Other than buying the game itself, skins (along with weapon upgrades) have been one of the main money producing tactics for these companies.
+
+Not only is Digital Fashion a sustainable method, but it also aligns with the restrictions during this pandemic. Digital fashion now introduces a new world for virtual-catwalks, photoshots, and exhibits. People also are rarely able to show off their outfits outside, so digital fashion offers safely parading your OOTD (outfit of the day) at home. Lastly, as this technology does not produce textile, when publicized, it could be an affordable way to replace fast fashion. Fast fashion according to Hayes (2021), is the bottom of the fashion hierarchy; it is cheap, trendy, and changes out quickly. They are the biggest contributors to pollution to our waters as speed manufacturing requires toxic cheap dye and mass produced textiles also mostly end up in landfills (The Problem with Fast Fashion, 2019).
+
 ## Pros And Cons
 
 PROS
