@@ -4,9 +4,9 @@
 
 ### Digital clothing: All you need to know about the future of fashion brands. (n.d.). Loomly Blog. https://blog.loomly.com/digital-clothing/
 
-### Grant, C. (2019, Novemeber 25). Digital clothes are fashion’s freaky new frontier. https://thehustle.co/11252019-Digital-clothes-Carlings/
+### Grant, C. (2019, Novemeber 25). Digital clothes are fashion’s freaky new frontier. The Hustle. https://thehustle.co/11252019-Digital-clothes-Carlings/
 
-### Mielke, M. (2020, December 14). Decrypting digital fashion & its place in the fashion landscape. https://www.fashionabledata.com/blog/decrypting-digital-fashion-and-its-place-in-the-fashion-landscape
+### Mielke, M. (2020, December 14). Decrypting digital fashion & its place in the fashion landscape. Fashionabledata.com. https://www.fashionabledata.com/blog/decrypting-digital-fashion-and-its-place-in-the-fashion-landscape
 
 ### Puleo, C. (2021, October 5). The pros and cons of digital fashion. Her Campus. https://www.hercampus.com/school/emmanuel/the-pros-and-cons-of-digital-fashion/
 
