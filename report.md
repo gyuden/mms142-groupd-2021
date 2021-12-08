@@ -1,8 +1,13 @@
 # What is a Disruptive technology?
+A disruptive technology has the potential to undermine an existing market, system, or product. Investing in this technology may provide risk of selling immediately or sometimes not at all to the public (Smith, 2020). However, missing the speed of innovation often leads companies to be left behind.
 
 # What is Digital Fashion?
-
 Clothing is considered one of the human's basic needs to live. But as time evolves, our view for clothing changed from it being a necessity into becoming a luxury to have. Clothes became a natural extension of ourselves. It helps us express who we are, our interests, and sometimes our status in life. Clothes became our entertainment.
 The fashion industry is composed of enthusiasts, influencers, and consumers of what we essentially wear. They are the ones who are responsible for setting the "trend" in clothes, accessories, footwear, etc. The fashion industry is also the one to account for the 10% of all greenhouse gas emissions worldwide (Beall, 2020).
 
+In the age of Instagram with its online photos and OOTD’s shared to the world, an innovative technology brings new meaning to dressing up only for the gram. Digital Fashion is an up and coming trend in the fashion industry where clothes are 3D edited on your photo for you to digitally wear (Digital Clothing: All You Need to Know About the Future of Fashion Brands, n.d.).
+
 # Why is it considered a disruptive technology?
+Digital Fashion can be disruptive to the fast fashion industry, it provides a platform for people to enjoy the experience of expressing oneself with fashion without having to consume or produce textile. The gaming industry has already proven that this is a successful market. Gaming companies such as Sims, League of Legends, Grand Theft Auto and more capitalize custom outfits for characters. Other than buying the game itself, skins (along with weapon upgrades) have been one of the main money producing tactics for these companies.
+
+Moreover, in our new normal with the pandemic, digital fashion just fits right in. Recent fashion events have been conducted online because of quarantine protocols. Digital fashion now introduces a new world for virtual-catwalks, photoshots, and exhibits. People also are rarely able to show off their outfits outside, so digital fashion offers safely parading your OOTD at home. Lastly, as this technology does not produce textile, when publicized it could be an affordable way to replace fast fashion. Fast fashion according to Hayes (2021), is the bottom of the fashion hierarchy; it is cheap, trendy, and changes out quickly. They are the biggest contributors to pollution to our waters as speed manufacturing requires toxic cheap dye and mass produced textiles also mostly end up in landfills (The Problem with Fast Fashion, 2019).
