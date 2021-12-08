@@ -12,3 +12,13 @@ Digital Fashion is not only a sustainable alternative method to clothing, but it
 Digital Fashion can be disruptive to the fast fashion industry, it provides a platform for people to enjoy the experience of expressing oneself with fashion without having to consume or produce textile. The gaming industry has already proven that this is a successful market. Gaming companies such as Sims, League of Legends, Grand Theft Auto and more capitalize custom outfits for characters. Other than buying the game itself, skins (along with weapon upgrades) have been one of the main money producing tactics for these companies.
 
 Not only is Digital Fashion a sustainable method, but it also aligns with the restrictions during this pandemic. Digital fashion now introduces a new world for virtual-catwalks, photoshots, and exhibits. People also are rarely able to show off their outfits outside, so digital fashion offers safely parading your OOTD at home. Lastly, as this technology does not produce textile, when publicized it could be an affordable way to replace fast fashion. Fast fashion according to Hayes (2021), is the bottom of the fashion hierarchy; it is cheap, trendy, and changes out quickly. They are the biggest contributors to pollution to our waters as speed manufacturing requires toxic cheap dye and mass produced textiles also mostly end up in landfills (The Problem with Fast Fashion, 2019).
+## Pros And Cons
+
+- It gives customers the freedom to be as creative as they want.
+- Buyers don't have to worry about how an outfit looks or whether it's too risky because it won't take up any space in their closet.
+- Because the clothing is digital, it eliminates manufacturing and production pollution, as well as the throw-away cycle that most clothes go through once they have been worn them out. (Puleo, 2021)
+
+CONS
+- Not everyone has access to digital fashion. With prices ranging from $40 to $1000, it may be out of reach for some.
+- Create a faćade of wealth to the point of exclusion.
+- Companies such as DressX require you to purchase the outfit each time you want to wear it. (Puleo, 2021)
