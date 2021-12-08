@@ -1,6 +1,15 @@
 ## Color Palette
 ### Palette #6
-![Palette 6](https://i.pinimg.com/564x/f0/7b/e5/f07be5f07f2b3bc09debfaaa5b733ce9.jpg)
+![Palette 6](https://i.pinimg.com/564x/f0/7b/e5/f07be5f07f2b3bc09debfaaa5b733ce9.jpg)\
+HTML Color Codes from (https://html-color-codes.info/colors-from-image/)\
+0 - #0B3039\
+3 - #294352\
+4 - #6F5771\
+5 - #B06583\
+6 - #D58097\
+8 - #E6B5B8\
+10 - #EBDDD0\
+15 - #F3F5E8
 
 ## Typefaces (Headings)
 ### Archivo (for headers, etc.)
