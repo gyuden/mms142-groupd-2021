@@ -14,6 +14,7 @@ Digital Fashion can be disruptive to the fast fashion industry, it provides a pl
 Not only is Digital Fashion a sustainable method, but it also aligns with the restrictions during this pandemic. Digital fashion now introduces a new world for virtual-catwalks, photoshots, and exhibits. People also are rarely able to show off their outfits outside, so digital fashion offers safely parading your OOTD at home. Lastly, as this technology does not produce textile, when publicized it could be an affordable way to replace fast fashion. Fast fashion according to Hayes (2021), is the bottom of the fashion hierarchy; it is cheap, trendy, and changes out quickly. They are the biggest contributors to pollution to our waters as speed manufacturing requires toxic cheap dye and mass produced textiles also mostly end up in landfills (The Problem with Fast Fashion, 2019).
 ## Pros And Cons
 
+PROS
 - It gives customers the freedom to be as creative as they want.
 - Buyers don't have to worry about how an outfit looks or whether it's too risky because it won't take up any space in their closet.
 - Because the clothing is digital, it eliminates manufacturing and production pollution, as well as the throw-away cycle that most clothes go through once they have been worn them out. (Puleo, 2021)
