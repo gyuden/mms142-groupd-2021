@@ -10,7 +10,7 @@
 
 ### Puleo, C. (2021, October 5). The pros and cons of digital fashion. Her Campus. https://www.hercampus.com/school/emmanuel/the-pros-and-cons-of-digital-fashion/
 
-### Renoon. (n.d.). We are thirsty for new clothes, can digital fashion feed that sustainably? https://renoon.com/blog/we-are-thirsty-for-new-clothes-can-digital-fashion-feed-that-sustainably
+### Renoon. (n.d.). We are thirsty for new clothes, can digital fashion feed that sustainably? Renoon. https://renoon.com/blog/we-are-thirsty-for-new-clothes-can-digital-fashion-feed-that-sustainably
 
 ### Replicant. (n.d.). Digital fashion. https://en.replicant.fashion/digitalfashion
 
