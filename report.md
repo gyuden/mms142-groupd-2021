@@ -20,10 +20,10 @@ Digital also aligns with the restrictions during this pandemic. Digital fashion 
 PROS
 - Customers and brand designers have the freedom to be as creative as they want.
 - Digital clothing has fluidity and flexibility to match any body type, relieving their customers from purchasing anxieties. 
-- Digital clothing eliminates manufacturing and production pollution. Such as the throw-away cycle wherein clothes are tossed into trash bins once worn out (Puleo, 2021).
+- Digital clothing reduces manufacturing and production pollution. Reduction of fashion waste also occurs to the throw-away cycle wherein clothes are tossed into trash bins once worn out (Puleo, 2021).
 
 CONS
-- Digital fashion sets expensive prices ranging from $40 to $1000, making it costly for people who could not afford it.
+- Digital fashion sets expensive prices ranging from $40 to $1000, making it costly for most people and excluding those who could not afford it.
 - Create a faćade of wealth to the point of exclusion.
 - Companies such as DressX require you to purchase the outfit each time you want to wear it (Puleo, 2021).
-- The 3D edited picture might not meet the standards and expectations of the consumers (Puleo, 2021).
+- The 3D-edited outcomes might not meet the standards and expectations of the consumers (Puleo, 2021).
