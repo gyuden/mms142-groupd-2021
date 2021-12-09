@@ -47,7 +47,7 @@ main {
   grid-column: 1/5;
   align-self: center;
   margin-top: 30px;
-  margin-left: 75px;
+  margin-left: 73px;
 }
 .description {
   grid-row: 2/5;
